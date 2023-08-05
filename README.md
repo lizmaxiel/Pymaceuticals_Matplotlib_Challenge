@@ -1,1 +1,7 @@
 # Pymaceuticals_Matplotlib_Challenge
+
+The objective of this assignment is to conduct a comprehensive analysis of an animal study involving 249 mice with SCC tumors. The study aimed to evaluate and compare the performance of different drug regimens, including Pymaceuticals' drug of interest, Capomulin. The mice were treated with various drugs, and tumor development was monitored over a period of 45 days.
+
+As a senior data analyst, the task is to generate all the necessary tables and figures required for the technical report of the clinical study. This involves performing data cleaning, summarizing statistics for each drug regimen (mean, median, variance, standard deviation, and SEM of tumor volume), and visualizing the data using various plots like bar plots, pie charts, line plots, and box and whisker plots. 
+
+Overall, the analysis indicates that Capomulin and Ramicane are the most promising drug regimens in inhibiting tumor growth, with lower tumor volumes and more consistent responses. However, further investigation is needed to understand the potential outliers in Infubinol and evaluate its efficacy thoroughly. The study provides valuable insights into the performance of different drug regimens.
